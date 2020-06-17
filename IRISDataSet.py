@@ -2,6 +2,7 @@
 """
 Created on Mon Jun  8 19:47:09 2020
 Hello World for Machine Learning Simple Project (looking at IRIS dataset)
+Based on an example found online 
 
 @author: 17jlo
 """
